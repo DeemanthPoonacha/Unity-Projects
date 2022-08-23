@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - snail
+  - beetle
+  - bullet
+  - bird
+  - Spider
+  - frog
+  - coin
+  - Boss
+  - Water
+  - FallDetector
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - background
+  - BGObjs
+  - ground
+  - enemies
+  - player
+  - collectibles
+  - FallDetector
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 381653677
+    locked: 0
+  - name: BGObjs
+    uniqueID: 2305125351
+    locked: 0
+  - name: ground
+    uniqueID: 703232529
+    locked: 0
+  - name: enemies
+    uniqueID: 3194972621
+    locked: 0
+  - name: player
+    uniqueID: 2315042545
+    locked: 0
+  - name: collectibles
+    uniqueID: 662596409
+    locked: 0
+  - name: UI
+    uniqueID: 1934165151
+    locked: 0
