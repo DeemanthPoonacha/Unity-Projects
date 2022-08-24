@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5a78895ab01ba6e4ba6d0efd5c3cc2cf
+  m_SerializeEntries:
+  - m_GUID: 8413be5d55abdcf43b7d4597af60845d
+    m_Address: Knight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 889e9d0bf537f404dba93d9686349848
+    m_Address: Soldier
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b566b5d091d7a94899d880d2f17f365
+    m_Address: Wolf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e49c67427203a04791f8494bbe15e9d
+    m_Address: Hotspot Canvas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cf2fb28788791a546bbf496bb5441fa0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 758fceb69be82ae43aa4c0a33c117a33, type: 2}
+    - {fileID: 11400000, guid: 03c79f570a165c04cb60a5da9426a81e, type: 2}
